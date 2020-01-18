@@ -399,7 +399,7 @@ main {
   border-radius: 50%;
   margin: 0 20px;
   background-color: #ccc;
-  animation: slide 3s linear infinite both;
+  animation: slide 1s linear infinite both;
 }
 
 .nieve {
@@ -409,48 +409,48 @@ main {
   width: 100%;
 }
 .nieve img:nth-of-type(1) {
-  left: 40.6px;
-  animation-delay: 1.8s;
+  left: 77px;
+  animation-delay: 4.5s;
 }
 .nieve img:nth-of-type(2) {
-  left: 255.5px;
-  animation-delay: 2.7s;
+  left: 145.6px;
+  animation-delay: 3.6s;
 }
 .nieve img:nth-of-type(3) {
-  left: 17.5px;
-  animation-delay: 3.6s;
+  left: 273.7px;
+  animation-delay: 1.8s;
 }
 .nieve img:nth-of-type(4) {
-  left: 2.8px;
-  animation-delay: 3.6s;
-}
-.nieve img:nth-of-type(5) {
-  left: 181.3px;
-  animation-delay: 6.3s;
-}
-.nieve img:nth-of-type(6) {
-  left: 210px;
-  animation-delay: 0.9s;
-}
-.nieve img:nth-of-type(7) {
-  left: 31.5px;
-  animation-delay: 5.4s;
-}
-.nieve img:nth-of-type(8) {
-  left: 22.4px;
-  animation-delay: 0.9s;
-}
-.nieve img:nth-of-type(9) {
-  left: 266.7px;
-  animation-delay: 6.3s;
-}
-.nieve img:nth-of-type(10) {
-  left: 101.5px;
+  left: 133.7px;
   animation-delay: 2.7s;
 }
+.nieve img:nth-of-type(5) {
+  left: 255.5px;
+  animation-delay: 3.6s;
+}
+.nieve img:nth-of-type(6) {
+  left: 268.8px;
+  animation-delay: 1.8s;
+}
+.nieve img:nth-of-type(7) {
+  left: 172.2px;
+  animation-delay: 8.1s;
+}
+.nieve img:nth-of-type(8) {
+  left: 11.2px;
+  animation-delay: 2.7s;
+}
+.nieve img:nth-of-type(9) {
+  left: 40.6px;
+  animation-delay: 3.6s;
+}
+.nieve img:nth-of-type(10) {
+  left: 175px;
+  animation-delay: 0.9s;
+}
 .nieve img:nth-of-type(11) {
-  left: 208.6px;
-  animation-delay: 7.2s;
+  left: 107.8px;
+  animation-delay: 3.6s;
 }
 .nieve img {
   height: 5px;
